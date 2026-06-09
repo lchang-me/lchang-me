@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Le Chang 👋
+
+- ⚡ Control systems
+- 🔋 Smart grids
+- 📝 LaTeX + Git + Vim
+- ☕ Coffee-driven research
+
+```text
+idea → paper → revision → coffee → repeat
